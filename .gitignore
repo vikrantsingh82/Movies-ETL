@@ -1,5 +1,7 @@
 #ignore config.py
 config.py
+#Ingnore=ing CSV files becuase of size greater than 100MB
+*.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
